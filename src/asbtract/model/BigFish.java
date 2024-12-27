@@ -1,4 +1,4 @@
-package model;
+package asbtract.model;
 
 public abstract class BigFish {
     private String id;

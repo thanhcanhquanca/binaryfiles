@@ -1,4 +1,4 @@
-package model;
+package asbtract.model;
 
 public class PerchFish extends BigFish {
     private int weight;

@@ -1,4 +1,4 @@
-package model;
+package asbtract.model;
 
 public class CarpFish extends BigFish {
     private String language;

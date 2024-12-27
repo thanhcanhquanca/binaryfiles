@@ -1,6 +1,6 @@
-package controller;
+package asbtract.controller;
 
-import model.CarpFish;
+import asbtract.model.CarpFish;
 
 public class PerchFishManager extends BigFishManager<CarpFish> {
 }
